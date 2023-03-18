@@ -74,12 +74,13 @@
 開發事項
 1. 設計和開發 RESTful API 以提供客戶端與伺服器端的資料溝通。
 2. 實作 PDF Report 下載功能以便於客戶下載自己帳戶相關的報告文件。
-3. 開發全文搜尋功能，採用 Elasticsearch 技術來加快搜尋速度和準確度。
-4. 設計資料庫架構，並繪製 ER diagram 以協助系統管理及清晰呈現系統中資料的關係。
-5. 撰寫單元測試和 API 測試以確保程式品質，降低未來出錯機率。
-6. 開發WebSocket服務，以提供即時的推送通知，使前端有良好的ux體驗。
-7. 使用 Celery 進行異步任務處理，縮減用戶等待時間，提高用戶滿意度。
-8. 負責前端設計開發，規劃並原型產品搭建，保證最終呈現結果能夠符合需求並且美觀易用。
+3. 在專案中負責Push Notification實作，使用Firebase Cloud Messaging串接iOS及Android的推播訊息功能。
+4. 開發全文搜尋功能，採用 Elasticsearch 技術來加快搜尋速度和準確度。
+5. 設計資料庫架構，並繪製 ER diagram 以協助系統管理及清晰呈現系統中資料的關係。
+6. 撰寫單元測試和 API 測試以確保程式品質，降低未來出錯機率。
+7. 開發WebSocket服務，以提供即時的推送通知，使前端有良好的ux體驗。
+8. 使用 Celery 進行異步任務處理，縮減用戶等待時間，提高用戶滿意度。
+9. 負責前端設計開發，規劃並原型產品搭建，保證最終呈現結果能夠符合需求並且美觀易用。
 
 ---
 
@@ -108,9 +109,9 @@
 應用工具
 
 - Vue Vuex
-- SCSS
-- Axios
-- Bootstrap
+- scss
+- axios
+- bootstrap
 
 開發事項
 1. 大幅度重構現有component。
@@ -175,4 +176,4 @@
 - 後端框架:Express/Django/Gin
 - 前端框架:React
 - 資料庫:MySQL/Postgresql/Elasticsearch && OpenSearch
-- 單元測試:Supertest/Jest
+- 單元測試:Supertest/jest
