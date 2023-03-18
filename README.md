@@ -108,9 +108,9 @@
 應用工具
 
 - Vue Vuex
-- scss
-- axios
-- bootstrap
+- SCSS
+- Axios
+- Bootstrap
 
 開發事項
 1. 大幅度重構現有component。
@@ -175,4 +175,4 @@
 - 後端框架:Express/Django/Gin
 - 前端框架:React
 - 資料庫:MySQL/Postgresql/Elasticsearch && OpenSearch
-- 單元測試:Supertest/jest
+- 單元測試:Supertest/Jest
