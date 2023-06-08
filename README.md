@@ -56,6 +56,7 @@
 11. 結構重構成領域分類，以應對日益複雜的需求。
 12. 研發 message queue 相關功能，使得平台處理消息更加高效。
 13. 重新設計系統的 RBAC 架構，符合常規做法並增強了系統的權限管理能力。
+14. OpenSearch Hot-warm-cold architectures  && Multi-Tenancy
 
 
 ## 治略資訊整合股份有限公司 - Django 後端工程師 （ 2021-03 - 2022-06 ）
@@ -172,8 +173,8 @@
 
 # 技能清單
 
-- 程式語言:Node/Python/Golang
-- 後端框架:Express/Django/Gin
+- 程式語言:Node/Python
+- 後端框架:Express/Django
 - 前端框架:React
 - 資料庫:MySQL/Postgresql/Elasticsearch && OpenSearch
 - 單元測試:Supertest/jest
