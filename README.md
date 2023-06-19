@@ -3,7 +3,7 @@
 
  - 程昱翔(Mo) / 男 / 1995 
  - 台北商業大學 - 資訊管理 - 學士 
- - 工作經驗: 4 - 5 年
+ - 工作經驗: 5 年
  - Github: https://github.com/cheng-hsiang
  - 職位: Node.js後端工程師
  - 工作地點: 桃園 林口 台北市 或遠距
@@ -32,7 +32,7 @@
 
 # 工作經歷
 
-## 庫柏資訊軟體股份有限公司 - Node.js 後端工程師 （ 2022-08 - 至今 ）
+## 庫柏資訊軟體股份有限公司 - Node.js 後端工程師 （ 2022-08 - 2022-06 ）
 
 ### CobraUAM
 
@@ -94,6 +94,7 @@
 應用工具
 
 - React React-saga Redux typescript
+- Node.js
 - material-ui component
 - D3.js
 - Pixi.js
@@ -104,6 +105,7 @@
 2. 運用d3.js搭建知識圖譜，協助使用者快速理解資訊架構。
 3. 採用WebGL渲染方案，結合PixiJS以解決大數據下圖形渲染效能低落問題，達到了更高的效能與可靠性。
 4. 制定平台後續開發計畫，進行技術評估和優化，並持續更新和優化系統以提供更好的服務。
+5. Node.js 後端商業邏輯開發
 
 ### 智慧農業國際商情平台
 
@@ -128,6 +130,7 @@
 
 - React EJS jQuery SCSS Typescript
 - Next.js
+- Node express 
 
 
 開發事項
@@ -139,6 +142,7 @@
 6. 當地遊系統F2E窗口,並陸續加入文件與規範，確保團隊一致性。
 7. 實驗性質專案採用 Next.js 開發，具備新穎技術水準。
 8. 改善網頁效能評分，改善網站評分與用戶體驗。
+9. 搭建Node.js Proxy中間層
 
 
 ## 中華系統整合股份有限公司 React 前端工程師 （ 2018-07 - 2019-01 ）
@@ -150,6 +154,7 @@
 - React
 - NightWatch.js
 - D3.js
+- Java Spring
 
 
 開發事項
